@@ -1,4 +1,1 @@
-# Hello!
-## I'm Lisa.
-
-##### If I had time I would tell more about myself.
+![Image of Brown Dog](https://www.picng.com/upload/dog/png_dog_1256.png)
