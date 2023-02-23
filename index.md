@@ -1,0 +1,3 @@
+- [x] Finish Task 1 of Lab 2
+- [x] Finish Task 2 of Lab 2
+- [ ] Finish Task 3 of Lab 2
